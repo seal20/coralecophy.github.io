@@ -6,10 +6,23 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
+### Members
 
-A place to include any other types of information that you'd like to include about yourself.
+#### Sylvain Agostini
+
+Assistant Professor
+Doctor of Science
+
+Short CVs:
+*Education*
+* Undergraduate: University of Aix Marseille II in Biology of Marine Organisms (2003)
+* Master: University of Aix Marseille II in Biology and Population of Marine Organisms (2005)
+* Doctor at Shizuoka University, Japan in 2009
+
+*Awards*
+
+*Work Experience*
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[agostini.sylvain@shimoda.tsukuba.ac.jp](mailto:agostini.sylvain@shimoda.tsukuba.ac.jp]
