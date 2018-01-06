@@ -22,7 +22,7 @@ Short CVs:
 
 *Awards*
 * Best Paper Award Coral Reef for the paper Agostini, Sylvain, Yoshimi Suzuki, Tomihiko Higuchi, Beatriz E Casareto, Koichi Yoshinaga, Yoshikatsu Nakano, et H. Fujimura. 2012. « Biological and chemical characteristics of the coral gastric cavity ». Coral Reefs 31 (1):147–156. https://doi.org/10.1007/s00338-011-0831-6.
-* Best Paper Award Japanese Coral Reef Society for the paper: Agostini, S., Y. Suzuki, B.E. Casareto, Y. Nakano, M. Hidaka, et N. Badrun. 2009. « Coral symbiotic complex: Hypothesis through vitamin B12 for a new evaluation ». Galaxea, Journal of Coral Reef Studies 11 (1):1–11.
+* Best Paper Award Japanese Coral Reef Society for the paper: Agostini, S., Y. Suzuki, B.E. Casareto, Y. Nakano, M. Hidaka, et N. Badrun. 2009. « Coral symbiotic complex: Hypothesis through vitamin B12 for a new evaluation ». Galaxea, Journal of Coral Reef Studies 11 (1):1–11. 	https://doi.org/10.3755/galaxea.11.1
 
 *Work Experience*
 * (Pesent) Assistant Professor at the Shimoda Marine Research Center, University of Tsukuba
