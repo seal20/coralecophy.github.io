@@ -32,4 +32,6 @@ Short CVs:
 
 ### Contact me
 
- [agostini.sylvain@shimoda.tsukuba.ac.jp](mailto://agostini.sylvain@shimoda.tsukuba.ac.jp]
+ [agostini.sylvain@shimoda.tsukuba.ac.jp](mailto://agostini.sylvain@shimoda.tsukuba.ac.jp)
+ Public GPG Key: https://www.agoremix.com/nextcloud/index.php/s/LyyK4ki68ocNomi
+ 
